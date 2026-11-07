@@ -1,0 +1,9 @@
+{
+  "name":"Grader",
+  "short_name":"Grader",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f7f5fa",
+  "theme_color":"#6750a4",
+  "lang":"es"
+}
